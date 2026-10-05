@@ -1,0 +1,24 @@
+==================================================
+Personal Mini-Toolkit Plan (PLP Python - Week 8)
+==================================================
+
+1. Selected Tools Description:
+------------------------------
+- Tool 1 (Simple Calculator): Performs basic arithmetic operations (addition, subtraction, multiplication, division) between two numbers.
+- Tool 2 (To-Do List Manager): Allows users to add, view, and remove tasks from a personal daily task list.
+- Tool 3 (Number Guessing Game): Generates a secret random number between 1 and 20 and lets the user guess until they get it right.
+
+2. Program Menu Layout:
+------------------------
+=== Personal Mini-Toolkit ===
+1. Simple Calculator
+2. To-Do List Manager
+3. Number Guessing Game
+4. Quit
+
+3. Concepts Used Per Tool:
+--------------------------
+- Tool 1 (Simple Calculator): Input/Output, Type Conversion (float), Conditionals (if/elif/else for operation selection, division-by-zero check), f-strings.
+- Tool 2 (To-Do List Manager): Lists (appending, removing, iteration), While Loop (sub-menu), Conditionals, f-strings.
+- Tool 3 (Number Guessing Game): Random Module (`random.randint`), While Loop (guess loop), Conditionals (too high/too low/correct), Counter Variable, f-strings.
+- Main Menu Loop: While Loop, Conditionals, Input Handling/Validation.
